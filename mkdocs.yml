@@ -1,6 +1,6 @@
 site_name: RustWasm CF Worker (worker-rs)
 site_author: ardeshir
-repo_url: "https://github.com/ardeshir/runwasm"
+repo_url: "https://github.com/ardeshir/rustwasm"
 repo_name: Github
 
 docs_dir: "docs"
