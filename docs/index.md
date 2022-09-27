@@ -7,7 +7,7 @@
 ## Current Development Steps
 
 - npm install -g wrangler
-- <edit toml files>
+- - edit toml files 
 - wrangler login
 - wrangler build
 - wrangler dev
